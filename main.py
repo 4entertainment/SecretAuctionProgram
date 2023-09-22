@@ -11,6 +11,7 @@ flag = False
 
 auction_dictionary = {}
 max_bid = 0
+winner = ""
 
 while not flag:
     name = input("What is your name?:")
